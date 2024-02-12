@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working towards my Bachelors in Information Technology<br>🌱 I’m currently learning Python, Web Development, Databases and slowly learning Embedded systems.<br>👯 I’m looking to collaborate on anything<br>⚡ Fun fact: I love to play basketball and go hiking
+🔭 I’m currently working towards my Bachelors in Information Technology<br>🌱 I’m interested in learning Python, Web Development, Databases and Embedded systems.<br>👯 I’m looking to collaborate on anything<br>⚡ Fun fact: I love to play basketball and go hiking
 
 
 ## Languages:
