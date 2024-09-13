@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working towards my Bachelors in Information Technology<br>🌱 I’m interested in C#, Web Applications and Full-stack Development.<br>👯 I’m looking to collaborate on anything<br>⚡ Fun fact: I love to play basketball and go hiking
+🔭 I’m currently working towards my Bachelors in Information Technology<br>🌱 I’m interested in C#, Web Applications, Full-stack Development and Embedded Systems.<br>👯 I’m looking to collaborate on anything<br>⚡ Fun fact: I love to play basketball and go hiking
 
 
 <h3 align="left">Languages and Tools:</h3>
