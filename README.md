@@ -1,6 +1,7 @@
 ## 💫 About Me:
 🔭 I’m currently coming to an end of my Bachelors in Information Technology
-🌱 I have a passion for C#, Full-stack Development, AI, and Machine Learning.  
+
+🌱 I have a passion for C#, Full-stack Development, AI, and Machine Learning  
 👯 I’m looking to collaborate on anything :)  
 ⚡ Fun fact: I love to play basketball and go hiking  
 
