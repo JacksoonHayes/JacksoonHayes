@@ -1,9 +1,11 @@
 ## 💫 About Me:
-🔭 I’m currently coming to an end of my Bachelors in Information Technology
+🔧 I'm a Junior Developer at Fusion5, with a background in Information Technology and a strong interest in building impactful software.
 
-🌱 I have a passion for C#, Full-stack Development, AI, and Machine Learning  
-👯 I’m looking to collaborate on anything :)  
-⚡ Fun fact: I love to play basketball and go hiking  
+🌱 Passionate about Full-stack Development, C#, and exploring the possibilities of AI.
+
+🤝 Always open to collaborating on tech projects and learning new technologies.
+
+🏀 When I’m not a developer, you’ll find me playing basketball or hiking.
 
 ---
 
